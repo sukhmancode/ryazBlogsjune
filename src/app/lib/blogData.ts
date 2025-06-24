@@ -1,13 +1,16 @@
 export const blogData = [
-    {
-      date: "2025-06-24",
-      title: "June 24 Blog",
-      content: "Today, I started learning React Native! 🚀 It's exciting to dive into building cross-platform mobile apps using JavaScript and React. I'm beginning with the basics — setting up the environment, exploring components, and understanding how navigation works. Looking forward to building my first app soon!",
-    },
-    {
-      date: "2025-06-25",
-      title: "June 25 Blog",
-      content: "Another blog post for the next day.",
-    },
-  ];
-  
+  {
+    date: "2025-06-24",
+    title: "June 24 Blog",
+    content: `Today, I officially began my journey with React Native! 🚀
+
+Here's what I explored today:
+
+- Set up the React Native development environment using Expo and the React Native CLI.
+- Learned about basic core components: View, Text, and Image.
+- Understood how these components render differently on iOS and Android.
+- Set up debugging tools:
+  - Used Chrome DevTools and React Native Debugger.
+  - Inspected logs directly within Visual Studio Code.`,
+  },
+];
